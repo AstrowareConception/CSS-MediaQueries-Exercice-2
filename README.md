@@ -2,7 +2,7 @@
 
 Dans cet exercice, vous partirez des éléments fournis [index.html](index.html) ainsi que [style.css](style.css) pour réaliser le travail demandé.
 
-Comme vous pouvez le constater, si vous ouvrez le fichier [index.html](index.html) dans votre navigateur, quelle que soit la largeur de votre navigateur, la page n'affiche qu'une image par ligne. Ce format est adapté aux petites résolutions, notamment dans un affichage type _portrait_. Cette façon de travailler qui consiste à partir de la plus petite résolution possible et en réadaptant le contenu vers des résolutions plus élevées est ce qu'on appelle le _mobile first_.
+Comme vous pouvez le constater, si vous ouvrez le fichier [index.html](index.html) dans votre navigateur, quelle que soit la largeur de votre navigateur, la page n'affiche qu'une image par ligne. Ce format est adapté aux petites résolutions, notamment dans un affichage type _portrait_. Cette façon de travailler qui consiste à partir de la plus petite résolution possible et en réadaptant le contenu vers des résolutions plus élevées est ce qu'on appelle le _mobile first_. C'est ce qui est recommandé par Google aujourd'hui.
 
 # Consignes
 A l'aide des media queries, vous allez créer deux _breakpoints_ permettant de modifier l'affichage du contenu.
